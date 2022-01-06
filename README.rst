@@ -1,0 +1,1 @@
+/Users/neeleshbisht/Library/Caches/pypoetry/virtualenvs/inventory-api-YLSDi_gl-py3.9/bin/python3.9
