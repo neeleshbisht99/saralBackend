@@ -71,3 +71,6 @@ toml==0.10.2; python_version >= "2.6" and python_full_version < "3.0.0" or pytho
 waitress==2.0.0; python_full_version >= "3.6.0" \
     --hash=sha256:29af5a53e9fb4e158f525367678b50053808ca6c21ba585754c77d790008c746 \
     --hash=sha256:69e1f242c7f80273490d3403c3976f3ac3b26e289856936d1f620ed48f321897
+whitenoise==5.3.0; python_version >= "3.5" and python_version < "4" \
+    --hash=sha256:d963ef25639d1417e8a247be36e6aedd8c7c6f0a08adcb5a89146980a96b577c \
+    --hash=sha256:d234b871b52271ae7ed6d9da47ffe857c76568f11dd30e28e18c5869dbd11e12
