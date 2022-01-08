@@ -33,7 +33,7 @@ SECRET_KEY = os.environ["SECRET_KEY"]
 # for prod
 DEBUG = os.environ["DEBUG"]
 
-ALLOWED_HOSTS = ['localhost', 'https://saral2021.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', 'https://saral2021.herokuapp.com/', 'saral2021.herokuapp.com']
 
 AUTH_USER_MODEL = "user_control.CustomUser"
 
